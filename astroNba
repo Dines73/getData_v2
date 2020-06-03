@@ -1,0 +1,54 @@
+[
+            {
+                "name": "Kawhi Leonard",
+                "born": "1991-06-29",
+                "team": "LA Clippers",
+                "stats": [
+                    { "pkt": 28, "date": "2020-02-14", "opp": "bos" },
+                    { "pkt": 31, "date": "2020-02-17", "opp": "sac" },
+                    { "pkt": 25, "date": "2020-02-22", "opp": "mem" },
+                    { "pkt": 24, "date": "2020-02-25", "opp": "phx" },
+                    { "pkt": 19, "date": "2020-02-27", "opp": "den" },
+                    { "pkt": 30, "date": "2020-03-01", "opp": "phi" },
+                    { "pkt": 25, "date": "2020-03-04", "opp": "okc" },
+                    { "pkt": 25, "date": "2020-03-06", "opp": "hou" },
+                    { "pkt": 27, "date": "2020-03-08", "opp": "lal" },
+                    { "pkt": 23, "date": "2020-03-11", "opp": "gsw" }
+                ],
+                "radix": [
+                    { "body": "sun", "degree": 7, "sign": "can" },
+                    { "body": "moon", "degree": 6, "sign": "aqu" },
+                    { "body": "mer", "degree": 21, "sign": "can" },
+                    { "body": "ven", "degree": 21, "sign": "leo" },
+                    { "body": "mar", "degree": 20, "sign": "leo" },
+                    { "body": "jup", "degree": 14, "sign": "leo" },
+                    { "body": "sat", "degree": 5, "sign": "aqu" }
+                ]
+            },
+            {
+                "name": "James Harden",
+                "born": "1991-08-26",
+                "team": "Houston Rockets",
+                "stats": [
+                    { "pkt": 28, "date": "2020-02-21", "opp": "gsw" },
+                    { "pkt": 31, "date": "2020-02-23", "opp": "uta" },
+                    { "pkt": 25, "date": "2020-02-25", "opp": "nyk" },
+                    { "pkt": 24, "date": "2020-02-27", "opp": "mem" },
+                    { "pkt": 19, "date": "2020-03-01", "opp": "bos" },
+                    { "pkt": 30, "date": "2020-03-03", "opp": "nyk" },
+                    { "pkt": 25, "date": "2020-03-06", "opp": "lac" },
+                    { "pkt": 25, "date": "2020-03-07", "opp": "cha" },
+                    { "pkt": 27, "date": "2020-03-09", "opp": "orl" },
+                    { "pkt": 23, "date": "2020-03-11", "opp": "min" }
+                ],
+                "radix": [
+                    { "body": "sun", "degree": 2, "sign": "vir" },
+                    { "body": "moon", "degree": 18, "sign": "pie" },
+                    { "body": "mer", "degree": 24, "sign": "leo" },
+                    { "body": "ven", "degree": 26, "sign": "leo" },
+                    { "body": "mar", "degree": 26, "sign": "vir" },
+                    { "body": "jup", "degree": 26, "sign": "leo" },
+                    { "body": "sat", "degree": 1, "sign": "aqu" }
+                ]
+            }
+        ]
