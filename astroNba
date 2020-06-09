@@ -2,7 +2,7 @@
             {
                 "name": "Kawhi Leonard",
                 "born": "1991-06-29",
-                "url": "https://raw.githubusercontent.com/Dines73/natalKawhi/master/natalKawhi.jpg",
+                "natalImage": "https://raw.githubusercontent.com/Dines73/natalKawhi/master/natalKawhi.jpg",
                 "birthCity": "Los Angeles",
                 "stats": [
                     { "pkt": 28, "date": "2020-02-14", "opp": "bos" },
@@ -29,7 +29,7 @@
             {
                 "name": "James Harden",
                 "born": "1989-08-26",
-                "url": "https://raw.githubusercontent.com/Dines73/natalHarden/master/natalHarden.jpg",
+                "natalImage": "https://raw.githubusercontent.com/Dines73/natalHarden/master/natalHarden.jpg",
                 "birthCity": "Los Angeles",
                 "stats": [
                     { "pkt": 29, "date": "2020-02-21", "opp": "gsw" },
