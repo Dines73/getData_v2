@@ -52,5 +52,32 @@
                     { "body": "jup", "degree": 26, "sign": "leo", "unicode_symbol": "♌" },
                     { "body": "sat", "degree": 1, "sign": "aqu", "unicode_symbol": "♒" }
                 ]
+            },
+            {
+                "name": "Russel Westbrook",
+                "born": "1988-11-12",
+                "natalImage": "https://raw.githubusercontent.com/Dines73/natalKawhi/master/natalKawhi.jpg",
+                "birthCity": "Long Beach CA",
+                "stats": [
+                    { "pkt": 39, "date": "2020-02-10", "opp": "uta" },
+                    { "pkt": 36, "date": "2020-02-12", "opp": "bos" },
+                    { "pkt": 21, "date": "2020-02-21", "opp": "gsw" },
+                    { "pkt": 34, "date": "2020-02-23", "opp": "uta" },
+                    { "pkt": 33, "date": "2020-02-27", "opp": "mem" },
+                    { "pkt": 41, "date": "2020-03-01", "opp": "bos" },
+                    { "pkt": 24, "date": "2020-03-03", "opp": "nyk" },
+                    { "pkt": 29, "date": "2020-03-06", "opp": "lac" },
+                    { "pkt": 24, "date": "2020-03-09", "opp": "orl" },
+                    { "pkt": 27, "date": "2020-03-11", "opp": "min" }
+                ],
+                "radix": [
+                    { "body": "sun", "degree": 19, "sign": "sco", "unicode_symbol": "♏" }, 
+                    { "body": "moon", "degree": 18, "sign": "sag", "unicode_symbol": "♐" },
+                    { "body": "mer", "degree": 8, "sign": "sco", "unicode_symbol": "♏" },
+                    { "body": "ven", "degree": 15, "sign": "lib", "unicode_symbol": "♎" },
+                    { "body": "mar", "degree": 1, "sign": "ari", "unicode_symbol": "♈" },
+                    { "body": "jup", "degree": 2, "sign": "gem", "unicode_symbol": "♊" },
+                    { "body": "sat", "degree": 29, "sign": "sag", "unicode_symbol": "♐" }
+                ]
             }
         ]
