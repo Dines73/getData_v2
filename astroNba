@@ -56,7 +56,7 @@
             {
                 "name": "Russel Westbrook",
                 "born": "1988-11-12",
-                "natalImage": "https://raw.githubusercontent.com/Dines73/natalKawhi/master/natalKawhi.jpg",
+                "natalImage": "https://raw.githubusercontent.com/Dines73/natalWbrook/master/natalWbrook.jpg",
                 "birthCity": "Long Beach CA",
                 "stats": [
                     { "pkt": 39, "date": "2020-02-10", "opp": "uta" },
