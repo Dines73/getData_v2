@@ -2,6 +2,7 @@
             {
                 "name": "Kawhi Leonard",
                 "born": "1991-06-29",
+                "coef": 0.2,
                 "natalImage": "https://raw.githubusercontent.com/Dines73/natalKawhi/master/natalKawhi.jpg",
                 "birthCity": "Los Angeles",
                 "stats": [
@@ -29,6 +30,7 @@
             {
                 "name": "James Harden",
                 "born": "1989-08-26",
+                "coef": 0.7,
                 "natalImage": "https://raw.githubusercontent.com/Dines73/natalHarden/master/natalHarden.jpg",
                 "birthCity": "Los Angeles",
                 "stats": [
@@ -56,6 +58,7 @@
             {
                 "name": "Russell Westbrook",
                 "born": "1988-11-12",
+                "coef": 0.8,
                 "natalImage": "https://raw.githubusercontent.com/Dines73/natalWbrook/master/natalWbrook.jpg",
                 "birthCity": "Long Beach CA",
                 "stats": [
